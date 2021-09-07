@@ -14,6 +14,9 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosLugli&layout=compact&langs_count=7&theme=github_dark&count_private=true&title_color=FF6188&icon_color=fff&text_color=9f9f9f&bg_color=222222"/>
 </div>
 
+---
+
+[![ViniciosLugli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciosLugli&layout=compact&langs_count=6)](https://github.com/ViniciosLugli?tab=repositories)
 
 <div style="display: inline_block"><br>
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
