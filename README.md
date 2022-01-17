@@ -3,7 +3,7 @@
 #### About me 🇧🇷
 - Lover of low level languages 🥰
 - Robotics enthusiast 🤖
-- Currently learning rails and vuejs 🐙
+- Computer engineering 👨🏻‍💻
 - Fun fact: only uses the [monokai pro spectrum](https://monokai.pro/) theme 😎
 
 ---
