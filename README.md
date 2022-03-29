@@ -4,7 +4,7 @@
 - Lover of low level languages 🥰
 - Robotics enthusiast 🤖
 - Computer engineering 👨🏻‍💻
-- Only uses the [monokai pro spectrum](https://monokai.pro/) theme 😎
+- I only use the [monokai pro spectrum](https://monokai.pro/) theme 😎
 
 ---
 
