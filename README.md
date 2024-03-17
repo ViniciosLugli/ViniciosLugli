@@ -20,12 +20,21 @@
 [![wakatime](https://wakatime.com/badge/user/0ed594e2-e5a8-4e4f-b14c-c9d61221d45a.svg)](https://wakatime.com/@0ed594e2-e5a8-4e4f-b14c-c9d61221d45a)	
 	
 <div style="display: inline_block"><br>
-	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg">
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 	
 ---
