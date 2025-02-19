@@ -38,6 +38,10 @@
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
 	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
+	<img align="center" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 	
 ---
