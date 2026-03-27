@@ -5,7 +5,6 @@
 - Robotics enthusiast 🤖
 - Computer engineering 👨🏻‍💻
 - I only use the [monokai pro spectrum](https://monokai.pro/) theme 😎
-- CTO of [Hakutaku](https://hakutaku.com.br)
 
 ---
 
