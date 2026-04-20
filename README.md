@@ -1,52 +1,44 @@
-### Hello random programmer, I'm `Vinicios Lugli`! 🤗
+## Vinicios Lugli
 
-#### About me 🇧🇷
-- Lover of low level languages 🥰
-- Robotics enthusiast 🤖
-- Computer engineering 👨🏻‍💻
-- I only use the [monokai pro spectrum](https://monokai.pro/) theme 😎
+AI systems engineer focused on architecture, full-stack execution, and product-minded software.
 
----
+I build AI products on top of solid systems foundations, with emphasis on clear tradeoffs, strong implementation, and pragmatic delivery.
 
-<div>
-	<a href="https://github.com/ViniciosLugli">
-	<img height="180em" src="https://github-readme-stats-vinicios-lugli.vercel.app/api?username=ViniciosLugli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=FF6188&icon_color=947BAF&text_color=C8C8C8&bg_color=222222"/>
-	<img height="180em" src="https://github-readme-stats-vinicios-lugli.vercel.app/api/top-langs/?username=ViniciosLugli&layout=compact&langs_count=7&theme=github_dark&count_private=true&title_color=FF6188&icon_color=fff&text_color=9f9f9f&bg_color=222222"/>
-</div>
-		
----
+### Current focus
 
-[![ViniciosLugli's wakatime stats](https://github-readme-stats-vinicios-lugli.vercel.app/api/wakatime?username=ViniciosLugli&layout=compact&langs_count=6)](https://github.com/ViniciosLugli?tab=repositories)
+- AI systems and applied LLM workflows
+- Software architecture and backend design
+- Full-stack product development
+- Python, TypeScript, Rust
 
-[![wakatime](https://wakatime.com/badge/user/0ed594e2-e5a8-4e4f-b14c-c9d61221d45a.svg)](https://wakatime.com/@0ed594e2-e5a8-4e4f-b14c-c9d61221d45a)	
-	
-<div style="display: inline_block"><br>
-	<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-	<img src="https://img.shields.io/badge/-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white">
-	<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-	<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-	<img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-	<img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-	<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-	<img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
-	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-	<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-	<img src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white">
-	<img src="https://img.shields.io/badge/-SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white">
-	<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
-	<img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-	<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-	<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-	<img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-	<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-	<img src="https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=white">
-	<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div>
+### Links
 
----
+- Portfolio: [me.vinicioslugli.dev](https://me.vinicioslugli.dev/)
+- LinkedIn: [linkedin.com/in/vinicioslugli](https://www.linkedin.com/in/vinicioslugli/)
+- Email: [vinicioslugli@gmail.com](mailto:vinicioslugli@gmail.com)
 
-<div>
-	<a href = "mailto:vinicioslugli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/vinicioslugli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+<details>
+  <summary>GitHub stats</summary>
+  <br />
+  <a href="https://github.com/ViniciosLugli">
+    <img
+      height="180em"
+      src="https://github-readme-stats-vinicios-lugli.vercel.app/api?username=ViniciosLugli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=FC618D&icon_color=948AE3&text_color=BAB6C0&bg_color=222222"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats-vinicios-lugli.vercel.app/api/top-langs/?username=ViniciosLugli&layout=compact&langs_count=7&theme=github_dark&count_private=true&title_color=FC618D&icon_color=F7F1FF&text_color=BAB6C0&bg_color=222222"
+    />
+  </a>
+</details>
