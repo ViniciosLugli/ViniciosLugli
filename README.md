@@ -15,7 +15,7 @@ I build AI products on top of solid systems foundations, with emphasis on clear 
 
 - Portfolio: [me.vinicioslugli.dev](https://me.vinicioslugli.dev/)
 - LinkedIn: [linkedin.com/in/vinicioslugli](https://www.linkedin.com/in/vinicioslugli/)
-- Email: [vinicioslugli@gmail.com](mailto:vinicioslugli@gmail.com)
+- Email: [hi@vinicioslugli.dev](mailto:hi@vinicioslugli.dev)
 
 ### Stack
 
