@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-labelledby="ft">
+  <title id="ft">exit. Built on Linux in Araçatuba, SP, mostly at night.</title>
+  <style>
+    text { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; }
+  </style>
+
+  <rect x="16.5" y="16.5" width="1167" height="39" fill="#ffffff" stroke="#c7c4cc"/>
+  <text xml:space="preserve" x="48" y="41"><tspan fill="#c2185b">$ </tspan><tspan fill="#56535c">exit</tspan></text>
+  <text x="1152" y="41" text-anchor="end" fill="#6e6b74">built on Linux in Araçatuba, SP, mostly at night</text>
+</svg>

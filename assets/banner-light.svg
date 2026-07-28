@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t">
+  <title id="t">cargo run --bin vinicios. warning: unused variable `free_time`.</title>
+  <style>
+    text { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 18px; }
+    .b { font-weight: 700; }
+    .sm { font-size: 13px; letter-spacing: .12em; }
+    .cur { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1 } 50.01%, 100% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { .cur { animation: none; opacity: 1 } }
+  </style>
+
+  <rect width="1200" height="320" fill="#f4f2f6"/>
+  <rect x="16.5" y="16.5" width="1167" height="287" fill="none" stroke="#c7c4cc"/>
+  <rect x="40.5" y="40.5" width="1119" height="239" fill="#ffffff" stroke="#c7c4cc"/>
+
+  <path d="M40.5 76.5H1159.5" stroke="#c7c4cc"/>
+  <text class="sm" x="72" y="64" fill="#6e6b74">~/vinicios</text>
+  <rect x="948" y="53" width="28" height="7" fill="#e0356f"/>
+  <rect x="986" y="53" width="28" height="7" fill="#d1611f"/>
+  <rect x="1024" y="53" width="28" height="7" fill="#bd8100"/>
+  <rect x="1062" y="53" width="28" height="7" fill="#2f9e5b"/>
+  <rect x="1100" y="53" width="28" height="7" fill="#1f8fa6"/>
+
+  <text xml:space="preserve" x="72" y="110"><tspan fill="#c2185b">$ </tspan><tspan fill="#1c1b1f">cargo run --bin vinicios</tspan></text>
+  <text xml:space="preserve" x="72" y="148"><tspan class="b" fill="#1f7a45">   Compiling </tspan><tspan fill="#56535c">vinicios v2026.7 (Araçatuba, SP)</tspan></text>
+  <text xml:space="preserve" x="72" y="176"><tspan class="b" fill="#8a6300">warning: </tspan><tspan fill="#56535c">unused variable: `free_time`</tspan></text>
+  <text xml:space="preserve" x="72" y="204"><tspan fill="#166a7c">   = help: </tspan><tspan fill="#56535c">consider prefixing with `_`, or writing another language in rust</tspan></text>
+  <text xml:space="preserve" x="72" y="234"><tspan class="b" fill="#1f7a45">    Finished </tspan><tspan fill="#56535c">dev [unoptimized + debuginfo] target(s)</tspan></text>
+  <text xml:space="preserve" x="72" y="264"><tspan fill="#c2185b">$ </tspan></text>
+  <rect class="cur" x="94" y="250" width="11" height="18" fill="#1c1b1f"/>
+</svg>
